@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-mira.github.io
+Sitemap: https://luchshie-kazino-mira.github.io/sitemap.xml
